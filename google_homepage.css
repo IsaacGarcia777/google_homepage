@@ -1,0 +1,81 @@
+#logo{
+	position: absolute;
+	margin: auto;
+	left: -20px;
+	right: 0;
+	top: -300px;
+	bottom: 0;
+	width: 500px;
+	height: 200px;
+}
+
+.bar{
+	width: 550px;
+	background-color: white;
+	border: 1px solid;
+	height: 35px;
+	margin: auto;
+	position: absolute;
+	text-align: center;
+	top: -250px;
+	right: 0;
+	left: -30px;
+	bottom: 0px;
+
+
+}
+.google_size{
+	position: relative;
+	top: 400px;
+	right: -750px;
+}
+.lucky_size{
+	position: relative;
+	top: 363px;
+	right: -950px;
+}
+.google{
+	width: 150px;
+	border-radius: 3px;
+	height: 36px;
+}
+.lucky{
+	border-radius: 3px;
+	height: 36px;
+	width: 150px;
+
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+li{
+	display: inline;
+}
+.nav{
+	position: absolute;
+	top: -400px;
+	left: 730px;
+
+}
+.bttn{
+	border: 1px solid #4285f4;
+	background-color: #4885ed;
+	text-align: center;
+	color: white;
+	border-width: 10px;
+	border-height: 10px;
+	border-radius: 2px;
+
+}
+
+.footer{
+	position: absolute;
+	bottom: -930px;
+	left: -1687px;
+	background-color: #DCD3D3;
+	width: 2000px;
+	height: 50px;
+}
